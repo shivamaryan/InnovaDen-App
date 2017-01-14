@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InnovaDen1712</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_spalsh">SpalshActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_register_page">RegisterPage</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_event_">Event_Activity</string>
+    <string name="title_activity_event">EventActivity</string>
+</resources>
